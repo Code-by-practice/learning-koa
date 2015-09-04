@@ -1,7 +1,7 @@
 {
-  "name": "learning-koa",
+  "name": "learning-koa-mongodb-demo",
   "version": "0.0.0",
-  "description": "Training kit for koa - next generation web framework for node.js",
+  "description": "koa - mongodb integration demo",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hegdeashwin/learning-koa.git"
@@ -12,7 +12,8 @@
     "learning",
     "training",
     "koa",
-    "framework"
+    "framework",
+    "koa-mongodb"
   ],
   "author": "Ashwin Hegde",
   "license": "MIT",
