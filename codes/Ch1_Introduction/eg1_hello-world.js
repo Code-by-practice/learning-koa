@@ -7,6 +7,9 @@
  *
  * To terminate the program use Ctrl+C / Cmd+C
  */
+
+'use strict';
+
 var koa = require('koa');
 
 /**
