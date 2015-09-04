@@ -5,7 +5,7 @@
  * More info visit: https://github.com/tj/co
  *
  * How to run:
- * node --harmony eg3_using_generator_in_koa.js
+ * node --harmony eg4_using_generator_in_koa_02.js
  *
  * To terminate the program use Ctrl+C / Cmd+C
  */
