@@ -2,10 +2,6 @@
   "name": "learning-koa",
   "version": "0.0.0",
   "description": "Training kit for koa - next generation web framework for node.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hegdeashwin/learning-koa.git"
