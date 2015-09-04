@@ -1,5 +1,6 @@
 /**
- * 
+ * Description: Display welcome message on browser
+ *
  * How to run:
  * node --harmony eg1_hello-world.js
  * Open browser -> localhost:9000
@@ -17,7 +18,7 @@ var app = koa();
  * Simple function to attach message to body. It has a strange name called * asterix;
  * which indicates this function is generator function (ECMA Script 6 feature)
  */
-app.use(function * () {
+app.use(function*() {
 	this.body = "Hello World! Welcome to the training kit for koa - the next generation node.js framework!";
 });
 
