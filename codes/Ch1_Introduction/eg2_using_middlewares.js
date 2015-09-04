@@ -2,7 +2,7 @@
  * Description: Use of middleware with koa.
  *
  * How to run:
- * node --harmony eg1_hello-world.js
+ * node --harmony eg2_using_middlewares.js
  * Open browser -> localhost:9000/user/<your-name>
  *
  * To terminate the program use Ctrl+C / Cmd+C
