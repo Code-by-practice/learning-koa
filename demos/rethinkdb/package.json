@@ -24,7 +24,9 @@
   "dependencies": {
     "co-body": "^4.0.0",
     "koa": "^1.0.0",
-    "koa-route": "^2.4.2"
+    "koa-route": "^2.4.2",
+    "rethinkdb": "^2.1.1",
+    "rethinkdbdash": "^2.1.8"
   },
   "engines": {
     "node": ">= 0.12.0",
